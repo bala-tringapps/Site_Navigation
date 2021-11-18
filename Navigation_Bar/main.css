@@ -1,7 +1,4 @@
-@font-face {
-    font-family: RobotoCondensed-Light;
-    src: url(./Roboto_Condensed/RobotoCondensed-Light.ttf) format(truetype);
-}
+
 body{
     background-color: #8EC5FC;
     background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
@@ -11,7 +8,7 @@ body{
     
 }
 p{
-    font-family: RobotoCondensed-Light;
+    font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
 }
 ul {
     list-style-type: none;
